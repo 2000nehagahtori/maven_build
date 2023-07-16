@@ -1,15 +1,15 @@
 Follow the following commands to build a maven project on windows:
 Create a folder and change the current directory to it .
-java -version
-mvn --version
+--  java -version
+--  mvn --version
 mvn archetype : generate 
 choose a number for project type : 8
 cd to the artifact name 
-mvn validate
-mvn compile 
-mvn clean 
-mvn test
-mvn package
-mvn install
-mvn deploy
-mvn site 
+--  mvn validate
+--  mvn compile 
+--  mvn clean 
+--  mvn test
+--  mvn package
+--  mvn install
+--  mvn deploy
+--  mvn site 
